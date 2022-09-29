@@ -10,5 +10,20 @@
   "license": "ISC",
   "dependencies": {
     "react": "17.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImtiazChowdhury/dataLoader.git"
+  },
+  "keywords": [
+    "react",
+    "data",
+    "loader",
+    "fetch",
+    "hook"
+  ],
+  "bugs": {
+    "url": "https://github.com/ImtiazChowdhury/dataLoader/issues"
+  },
+  "homepage": "https://github.com/ImtiazChowdhury/dataLoader#readme"
 }
